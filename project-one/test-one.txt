@@ -1,3 +1,4 @@
 Modified from command line.
 This is a test file in project one.
 Added a new line from command line.
+Added line in IDE.
